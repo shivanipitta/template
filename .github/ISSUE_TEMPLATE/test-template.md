@@ -23,6 +23,3 @@ If applicable, add screenshots to help explain your problem.
  - iOS
  - Browser: chrome
  - Version: 69.0
-
-
-
