@@ -22,7 +22,7 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - iOS
  - Browser: chrome
- - Version [e.g. 22]
+ - Version: 69.0
 
 
 
